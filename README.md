@@ -13,10 +13,10 @@
 
 
 <p align="center">
-  <img src="https://github.com/GreyMattersBot/url-auto-delete-shortener-bot/blob/main/assets/IMG_20220105_010453-removebg-preview.png" alt="GreyMatter's Bot Logo">
+  <img src="https://telegra.ph/file/7dfb9665acf31f2c8c2ce.png" alt="Logo">
 </p>
 <h1 align="center">
-  <b>GreyMatter's Bot</b>
+  <b>Movie Storage Bot</b>
 </h1>
 
 
@@ -67,26 +67,22 @@ Read [this](https://telegram.dog/sources_cods) before you start messing up with 
 ## Deploy
 You can deploy this bot anywhere.
 
-<i>**[Watch Deploying Tutorial...](https://youtu.be/RWs6sh8m2Uk)**</i>
-
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/greymattersbot/url-auto-delete-shortener-bot">
+<a href="https://heroku.com/deploy?template=https://github.com/lazyindu/MovieStorageWala">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
 </details>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/GreyMattersBot/url-auto-delete-shortener-bot&branch=Shareus&name=urlshortautofilterbot)
-
-<i>**[Watch Deploying Tutorial...](https://youtu.be/o1Q9AxKzf_Y)**</i>
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/lazyindu/MovieStorageWala&name=urlshortautofilterbot)
 
 
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/GreyMattersbot/url-auto-delete-shortener-bot
+git clone https://github.com/lazyindu/MovieStorageWala
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -124,23 +120,3 @@ broadcast - to broadcast a message to all Eva Maria users
 batch - to create link for multiple posts
 link - to create link for one post
 ```
-## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://t.me/greymatters_bots_discussion)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://t.me/greymatter_bots)
-
-## Credits 
-## Thanks to 
- - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
- - Thanks To [Subinps](https://github.com/subinps) for Original EvaMaria.
- - Thanks To [RushikeshNarule](https://github.com/rushikeshnarule) for Search in PM feature.
- - Thanks To [TGNVS](https://github.com/TGNVS) for his koyeb idea.
- - Thanks To [Saikatwtf](https://github.com/saikatwtf) for adding Shareus Support.
- - Thanks To All Everyone In This Journey
-
-### Note
-
-you a Developer.
-Fork the repo and edit as per your needs.
-
-## Inspiration
-🙃
